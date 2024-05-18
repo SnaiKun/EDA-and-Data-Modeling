@@ -14,3 +14,5 @@ Fields included:
 - Price: The cost of the smartphone in the respective currency.
 
 This dataset provides valuable information for researchers and analysts to explore patterns, trends, and relationships between smartphone specifications and their pricing. It is an excellent resource for tasks such as price prediction, market analysis, and comparing different smartphone configurations. Whether you are looking to identify the most cost-effective options or understand the impact of specific hardware components on smartphone prices, this dataset offers numerous possibilities for detailed analysis.
+
+To see the results, kindly tap on this link: https://colab.research.google.com/drive/1CpOo9fhZlIYjTF8ifkIyhHpfdW0T-z5b?usp=sharing
